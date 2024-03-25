@@ -21,4 +21,15 @@ class DateTest {
         assertEquals(31, Date.dernierJourDuMois(3,2024));
 
     }
-    
+    @Test
+    @DisplayName("test date du lendemain")
+    void EstBissextileTest() {
+        assertEquals(false, Date.estBissextile(2013));
+        assertEquals(false, Date.estBissextile(1581));
+        assertEquals(true, Date.estBissextile(2024));
+        assertEquals(false, Date.estBissextile(1900));
+        assertEquals(true, Date.estBissextile(2000));
+
+
+
+    }
