@@ -11,8 +11,9 @@ Ce dépôt contient les tests de la classe `Date`.
     - **Version 0.1 - 0.5** : Évolutions progressives des tests.  
     - **Version 0.6 (finale)** : Dernière version stable des tests.  
 
-- **Documents de test**  
-  - [DossierTestV2_ClasseDate_BB-BN_Nathanael-Gaudree-Daem.pdf](DossierTestV2_ClasseDate_BB-BN_Nathanael-Gaudree-Daem.pdf) : Dernière version des tests boite noir / boite blanche (2025).
+- **Documents de test**
+  - [DossierTestV3_ClasseDate_BB-BN_Nathanael-Gaudree-Daem.pdf](DossierTestV3_ClasseDate_BB-BN_Nathanael-Gaudree-Daem.pdf) : Dernière version des tests boite noir / boite blanche (2025).
+  - [DossierTestV2_ClasseDate_BB-BN_Nathanael-Gaudree-Daem.pdf](DossierTestV2_ClasseDate_BB-BN_Nathanael-Gaudree-Daem.pdf) : version 2 des tests boite noir / boite blanche (2025).
   - [DossierTest_ClasseDate_BB-BN_Nathanael-Gaudree-Daem.pdf](DossierTestV2_ClasseDate_BB-BN_Nathanael-Gaudree-Daem.pdf) Première version des tests boite noir / boite blanche (2025).
   - [DossierTest_ClasseDate_Nathanael-Gaudree-Daem.pdf](DossierTestV2_ClasseDate_BB-BN_Nathanael-Gaudree-Daem.pdf) Première version des tests (2024).
   - 
