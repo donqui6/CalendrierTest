@@ -12,9 +12,9 @@ Ce dépôt contient les tests de la classe `Date`.
     - **Version 0.6 (finale)** : Dernière version stable des tests.  
 
 - **Documents de test**  
-  - [DossierTestV2_ClasseDate_BB-BN_Nathanael-Gaudree-Daem.pdf](myLib/DossierTestV2_ClasseDate_BB-BN_Nathanael-Gaudree-Daem.pdf) : Dernière version des tests boite noir / boite blanche (2025).
-  - [DossierTest_ClasseDate_BB-BN_Nathanael-Gaudree-Daem.pdf](myLib/DossierTest_ClasseDate_BB-BN_Nathanael-Gaudree-Daem.pdf) Première version des tests boite noir / boite blanche (2025).
-  - [DossierTest_ClasseDate_Nathanael-Gaudree-Daem.pdf](myLib/DossierTest_ClasseDate_Nathanael-Gaudree-Daem.pdf) Première version des tests (2024).
+  - [DossierTestV2_ClasseDate_BB-BN_Nathanael-Gaudree-Daem.pdf](CalendrierTest/DossierTestV2_ClasseDate_BB-BN_Nathanael-Gaudree-Daem.pdf) : Dernière version des tests boite noir / boite blanche (2025).
+  - [DossierTest_ClasseDate_BB-BN_Nathanael-Gaudree-Daem.pdf](CalendrierTest/DossierTest_ClasseDate_BB-BN_Nathanael-Gaudree-Daem.pdf) Première version des tests boite noir / boite blanche (2025).
+  - [DossierTest_ClasseDate_Nathanael-Gaudree-Daem.pdf](CalendrierTest/DossierTest_ClasseDate_Nathanael-Gaudree-Daem.pdf) Première version des tests (2024).
   - 
 - **Autres fichiers**  
   - `TD2_Qualite_de_dev.pdf` : Réponses aux questions du TD2.  
